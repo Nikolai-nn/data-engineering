@@ -1,4 +1,3 @@
-![cover](https://github.com/Data-Learn/data-engineering/blob/master/img/DataLearnCover.png)
 
 # Добро пожаловать в Data Learn
 
